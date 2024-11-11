@@ -29,3 +29,15 @@
 > - it will help to decide how much employer's health is necessary for work culture? then they can make a stable employer's unit, if someone dead what will have the condition of sector, Impact of chains. they can take pre-decision of this.
 
 > ![](https://github.com/pushpajit-dev/Impact-if-Alive/blob/5ea1f188c2cab08c876b46f5aaee9d5a2c721704/Sales_20241111_212153_0000.png)
+## **Use Google Colab**
+> Run using user-friendly free application & online server with Runtime allocation device. Free Web url can be helpful to test this type of project.
+
+> [Impact if Alive : Statistical Report](https://colab.research.google.com/drive/1pucoAjdCHu0cNZ8Wx3933r8w03hhJNMt?usp=sharing)
+> - Open the link
+> - Sign in with Google Account
+> - Save this notebook
+> - goto top right and press on **connect**
+> - connected. goto top **runtime** and **runall.**
+> - check the output below with Download option.
+
+> ![No Copyright needed](https://github.com/pushpajit-dev/Impact-if-Alive/blob/a6adf331d9b09f567829c3b8fc9a022c2236db3e/Sales_20241111_214454_0000.jpg)
